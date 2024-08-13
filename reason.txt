@@ -1,0 +1,3 @@
+added middle name
+added new line space before salary
+removed null and shorten line
